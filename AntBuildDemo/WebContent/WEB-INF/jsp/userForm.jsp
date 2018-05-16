@@ -12,11 +12,11 @@
 <form:form method="POST" commandName="user">
 	<table>
 		<tr>
-			<td>Enter Username :</td>
+			<td>Username :</td>
 			<td><form:input path="name" /></td>
 		</tr>
 		<tr>
-			<td>Enter Password :</td>
+			<td>Password :</td>
 			<td><form:password path="password" /></td>
 		</tr>
 		<tr>
