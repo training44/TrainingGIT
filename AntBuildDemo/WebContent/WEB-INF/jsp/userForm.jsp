@@ -39,10 +39,11 @@
 		</tr>
 		<tr>
 			<td>Community :</td>
-			<td><form:checkbox path="community" value="Spring"
-				label="Spring" /> <form:checkbox path="community" value="Hibernate"
-				label="Hibernate" /> <form:checkbox path="community" value="Struts"
-				label="Struts" /></td>
+			<td>
+				<form:checkbox path="community" value="Spring" label="Spring" /> </br>
+				<form:checkbox path="community" value="Hibernate" label="Hibernate" /> </br>
+				<form:checkbox path="community" value="Struts"label="Struts" /> </br>
+			</td>
 		</tr>
 		<tr>
 			<td></td>
